@@ -1,0 +1,15 @@
+{
+  "name": "Radio Fiesta",
+  "short_name": "RadioFiesta",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#ff2e98",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/hGfRZZnM/IMG-20250722-WA0091.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
